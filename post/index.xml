@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Laszlo Szenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lacikawiz.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Independence Day</title>
+      <link>https://lacikawiz.github.io/post/2020-06-15-independence-day/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lacikawiz.github.io/post/2020-06-15-independence-day/</guid>
+      <description>Today is a my own personal Independence Day. Two years ago on this day, I started a new life.
+What lead up to this point is that I had a dream of making a difference in the world &amp;amp; gave up everything for it. But after a year, I had to realize that every one of my goals were thoroughly blocked and I was mired down in rules, regulations - written, spoken and un-spoken ones.</description>
+    </item>
     
     <item>
       <title>My Fist Post with Hugo</title>

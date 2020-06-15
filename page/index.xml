@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Laszlo Szenes</title>
-    <link>https://lacikawiz.github.io/</link>
-    <description>Recent content on Laszlo Szenes</description>
+    <title>Pages on Laszlo Szenes</title>
+    <link>https://lacikawiz.github.io/page/</link>
+    <description>Recent content in Pages on Laszlo Szenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://lacikawiz.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lacikawiz.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,25 +30,6 @@ There&amp;rsquo;s an active Internet censorship in Russia which sometimes uses b
       <description>Glossary of term that I use on this site This is collection of the definitions of words that I use on this site and might be unfamiliar to the readers.
 Hugo This is a piece of software that allows me to generate this site from a couple of text based files and configurations.
 It generates the pages of this site as static pages. That means that the pages are stored in files that are ready to be used by your browser.</description>
-    </item>
-    
-    <item>
-      <title>Independence Day</title>
-      <link>https://lacikawiz.github.io/post/2020-06-15-independence-day/</link>
-      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://lacikawiz.github.io/post/2020-06-15-independence-day/</guid>
-      <description>Today is a my own personal Independence Day. Two years ago on this day, I started a new life.
-What lead up to this point is that I had a dream of making a difference in the world &amp;amp; gave up everything for it. But after a year, I had to realize that every one of my goals were thoroughly blocked and I was mired down in rules, regulations - written, spoken and un-spoken ones.</description>
-    </item>
-    
-    <item>
-      <title>My Fist Post with Hugo</title>
-      <link>https://lacikawiz.github.io/post/first-post/</link>
-      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://lacikawiz.github.io/post/first-post/</guid>
-      <description>The first post with Hugo This Sunday morning I woke up early and I decided to try if I can put together a static website with Hugo and publish it with Github pages. I had been thinking about this for about a year now, since I read some articles about it. I&amp;rsquo;m very interested in making very fast loading sites, which are also simple under the hood. I also wanted to make a site where I can publish my thoughts without the noise of social networking sites.</description>
     </item>
     
   </channel>
