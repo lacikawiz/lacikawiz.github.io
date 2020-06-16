@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Laszlo&#39;s Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lacikawiz.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Getting Rusty</title>
+      <link>https://lacikawiz.github.io/post/2020-06-16-getting-rusty/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lacikawiz.github.io/post/2020-06-16-getting-rusty/</guid>
+      <description>About 2 weeks ago, I read an article about the programming language Rust has won the most loved language in Stackoverflow survery for 2020. For 5 years in a row.
+It was about 5 years ago when I looked into Go (Golang) and at that time I read a bunch of comparisions between Go and Rust. And somehow, I didn&amp;rsquo;t end up trying it. Go was great and ended up building many tools with it.</description>
+    </item>
     
     <item>
       <title>Independence Day</title>
