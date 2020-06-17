@@ -6,17 +6,29 @@
     <description>Recent content on Laszlo&#39;s Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lacikawiz.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Progress on Figuring out Hugo&#39;s template system</title>
+      <link>https://lacikawiz.github.io/posts/2020-06-17-hugo-template-progress/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lacikawiz.github.io/posts/2020-06-17-hugo-template-progress/</guid>
+      <description>Today, finally I managed to get the page showing the way I originally envisioned.
+I wanted to have the links on the left sidebar to be the content from the /content/pages/ folder, while the list on the right (main) section on the home page to show only the pages from the /content/posts/ folder. Just like a regular blog.
+The trick lied in modifying two template files: layouts/_default/baseof.html and layouts/_default/list.html
+The first is the overall template for the whole site.</description>
+    </item>
+    
+    <item>
       <title>About me</title>
-      <link>https://lacikawiz.github.io/page/about-me/</link>
+      <link>https://lacikawiz.github.io/pages/about-me/</link>
       <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lacikawiz.github.io/page/about-me/</guid>
+      <guid>https://lacikawiz.github.io/pages/about-me/</guid>
       <description>I think I have a pretty tough time with this one.
 We have good ways to describe objects in the physical universe but persons are trickier to do. The mind and spirit are pretty intangible entities. So, all I can do is to describe things about me.
 I think the most important trait I have is that I am a seeker of knowledge. Pretty much everything interests me but I prefer to know things which are useful, have some kind of practical purpose.</description>
@@ -24,30 +36,30 @@ I think the most important trait I have is that I am a seeker of knowledge. Pret
     
     <item>
       <title>Getting Rusty</title>
-      <link>https://lacikawiz.github.io/post/2020-06-16-getting-rusty/</link>
+      <link>https://lacikawiz.github.io/posts/2020-06-16-getting-rusty/</link>
       <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lacikawiz.github.io/post/2020-06-16-getting-rusty/</guid>
+      <guid>https://lacikawiz.github.io/posts/2020-06-16-getting-rusty/</guid>
       <description>About 2 weeks ago, I read an article about the programming language Rust has won the most loved language in Stackoverflow survery for 2020. For 5 years in a row.
 It was about 5 years ago when I looked into Go (Golang) and at that time I read a bunch of comparisions between Go and Rust. And somehow, I didn&amp;rsquo;t end up trying it. Go was great and ended up building many tools with it.</description>
     </item>
     
     <item>
       <title>Getting Around Internet Blocking</title>
-      <link>https://lacikawiz.github.io/page/getting-around-internet-blocking/</link>
+      <link>https://lacikawiz.github.io/pages/getting-around-internet-blocking/</link>
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lacikawiz.github.io/page/getting-around-internet-blocking/</guid>
+      <guid>https://lacikawiz.github.io/pages/getting-around-internet-blocking/</guid>
       <description>Shortly after I moved to Russia, I experienced problems accessing websites and services.
 There&amp;rsquo;s an active Internet censorship in Russia which sometimes uses brute force methods to take down sites and services they deem not fit for Russian eyes. This includes blocking large ranges of IP addresses and sometimes certain ports. For example they tried to block Telegram by blocking all the IP addresses for a hosting service that they used.</description>
     </item>
     
     <item>
       <title>Glossary</title>
-      <link>https://lacikawiz.github.io/page/glossary/</link>
+      <link>https://lacikawiz.github.io/pages/glossary/</link>
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lacikawiz.github.io/page/glossary/</guid>
+      <guid>https://lacikawiz.github.io/pages/glossary/</guid>
       <description>Glossary of term that I use on this site This is collection of the definitions of words that I use on this site and might be unfamiliar to the readers.
 Hugo This is a piece of software that allows me to generate this site from a couple of text based files and configurations.
 It generates the pages of this site as static pages. That means that the pages are stored in files that are ready to be used by your browser.</description>
@@ -55,20 +67,20 @@ It generates the pages of this site as static pages. That means that the pages a
     
     <item>
       <title>Independence Day</title>
-      <link>https://lacikawiz.github.io/post/2020-06-15-independence-day/</link>
+      <link>https://lacikawiz.github.io/posts/2020-06-15-independence-day/</link>
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lacikawiz.github.io/post/2020-06-15-independence-day/</guid>
+      <guid>https://lacikawiz.github.io/posts/2020-06-15-independence-day/</guid>
       <description>Today is a my own personal Independence Day. Two years ago on this day, I started a new life.
 What lead up to this point is that I had a dream of making a difference in the world &amp;amp; gave up everything for it. But after a year, I had to realize that every one of my goals were thoroughly blocked and I was mired down in rules, regulations - written, spoken and un-spoken ones.</description>
     </item>
     
     <item>
       <title>My Fist Post with Hugo</title>
-      <link>https://lacikawiz.github.io/post/first-post/</link>
+      <link>https://lacikawiz.github.io/posts/first-post/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lacikawiz.github.io/post/first-post/</guid>
+      <guid>https://lacikawiz.github.io/posts/first-post/</guid>
       <description>The first post with Hugo This Sunday morning I woke up early and I decided to try if I can put together a static website with Hugo and publish it with Github pages. I had been thinking about this for about a year now, since I read some articles about it. I&amp;rsquo;m very interested in making very fast loading sites, which are also simple under the hood. I also wanted to make a site where I can publish my thoughts without the noise of social networking sites.</description>
     </item>
     

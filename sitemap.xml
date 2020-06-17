@@ -4,46 +4,51 @@
   
   <url>
     <loc>https://lacikawiz.github.io/</loc>
+    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lacikawiz.github.io/posts/</loc>
+    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lacikawiz.github.io/posts/2020-06-17-hugo-template-progress/</loc>
+    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lacikawiz.github.io/pages/about-me/</loc>
     <lastmod>2020-06-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lacikawiz.github.io/page/about-me/</loc>
+    <loc>https://lacikawiz.github.io/posts/2020-06-16-getting-rusty/</loc>
     <lastmod>2020-06-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lacikawiz.github.io/post/2020-06-16-getting-rusty/</loc>
+    <loc>https://lacikawiz.github.io/pages/</loc>
     <lastmod>2020-06-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lacikawiz.github.io/page/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lacikawiz.github.io/post/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lacikawiz.github.io/page/getting-around-internet-blocking/</loc>
+    <loc>https://lacikawiz.github.io/pages/getting-around-internet-blocking/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lacikawiz.github.io/page/glossary/</loc>
+    <loc>https://lacikawiz.github.io/pages/glossary/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lacikawiz.github.io/post/2020-06-15-independence-day/</loc>
+    <loc>https://lacikawiz.github.io/posts/2020-06-15-independence-day/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lacikawiz.github.io/post/first-post/</loc>
+    <loc>https://lacikawiz.github.io/posts/first-post/</loc>
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
   </url>
   

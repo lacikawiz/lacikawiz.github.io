@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Laszlo&#39;s Thoughts</title>
-    <link>https://lacikawiz.github.io/page/</link>
+    <link>https://lacikawiz.github.io/pages/</link>
     <description>Recent content in Pages on Laszlo&#39;s Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://lacikawiz.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lacikawiz.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About me</title>
-      <link>https://lacikawiz.github.io/page/about-me/</link>
+      <link>https://lacikawiz.github.io/pages/about-me/</link>
       <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lacikawiz.github.io/page/about-me/</guid>
+      <guid>https://lacikawiz.github.io/pages/about-me/</guid>
       <description>I think I have a pretty tough time with this one.
 We have good ways to describe objects in the physical universe but persons are trickier to do. The mind and spirit are pretty intangible entities. So, all I can do is to describe things about me.
 I think the most important trait I have is that I am a seeker of knowledge. Pretty much everything interests me but I prefer to know things which are useful, have some kind of practical purpose.</description>
@@ -24,20 +24,20 @@ I think the most important trait I have is that I am a seeker of knowledge. Pret
     
     <item>
       <title>Getting Around Internet Blocking</title>
-      <link>https://lacikawiz.github.io/page/getting-around-internet-blocking/</link>
+      <link>https://lacikawiz.github.io/pages/getting-around-internet-blocking/</link>
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lacikawiz.github.io/page/getting-around-internet-blocking/</guid>
+      <guid>https://lacikawiz.github.io/pages/getting-around-internet-blocking/</guid>
       <description>Shortly after I moved to Russia, I experienced problems accessing websites and services.
 There&amp;rsquo;s an active Internet censorship in Russia which sometimes uses brute force methods to take down sites and services they deem not fit for Russian eyes. This includes blocking large ranges of IP addresses and sometimes certain ports. For example they tried to block Telegram by blocking all the IP addresses for a hosting service that they used.</description>
     </item>
     
     <item>
       <title>Glossary</title>
-      <link>https://lacikawiz.github.io/page/glossary/</link>
+      <link>https://lacikawiz.github.io/pages/glossary/</link>
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lacikawiz.github.io/page/glossary/</guid>
+      <guid>https://lacikawiz.github.io/pages/glossary/</guid>
       <description>Glossary of term that I use on this site This is collection of the definitions of words that I use on this site and might be unfamiliar to the readers.
 Hugo This is a piece of software that allows me to generate this site from a couple of text based files and configurations.
 It generates the pages of this site as static pages. That means that the pages are stored in files that are ready to be used by your browser.</description>
