@@ -6,10 +6,20 @@
     <description>Recent content on Laszlo&#39;s Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lacikawiz.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HostWay - probably the most outdated web host provider</title>
+      <link>https://lacikawiz.github.io/posts/2020-06-18-hostway-most-outdated/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lacikawiz.github.io/posts/2020-06-18-hostway-most-outdated/</guid>
+      <description>Today, I migrated a WordPress site from the staging area under my own hosting to my client&amp;rsquo;s hosting (HostWay).
+The old site was running on some PHP 5-something. Their control panel is a home made one with hardly any CSS, and it didn&amp;rsquo;t give me an option to change the PHP version. It&amp;rsquo;s a pretty standard feature on most hostings. So, I contacted tech support via chat and asked them to upgrade it.</description>
+    </item>
     
     <item>
       <title>Progress on Figuring out Hugo&#39;s template system</title>
